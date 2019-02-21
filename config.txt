@@ -1,16 +1,16 @@
 
 
 
-token=BOT_TOKEN
+token=NTM0MDU3MTAwMDQxNjUwMTg2.D1ASxg.cFXoWgp3RoZzv2OiY5smH-4JCVw
 
 
-owner=479090634813341696
+owner=
 
 
 prefix=M
 
 
-game=Test
+game=
 
 status=ONLINE
 
@@ -18,7 +18,6 @@ status=ONLINE
 // "Playing" status. Note that this will ONLY work if the bot is playing music on ONE guild;
 // if the bot is playing on multiple guilds, this will not work.
 //
-//songinstatus=false
 
 
 // If you set this, the bot will also use this prefix in addition to
@@ -51,7 +50,6 @@ help=help
 //npimages=true
 
 
-stayinchannel=true
 
 
 // This sets the maximum amount of seconds any track loaded can be. If not set or set
