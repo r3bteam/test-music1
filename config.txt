@@ -4,7 +4,7 @@
 token=NTM0MDU3MTAwMDQxNjUwMTg2.D1ASxg.cFXoWgp3RoZzv2OiY5smH-4JCVw
 
 
-owner=
+owner=auto
 
 
 prefix=M
