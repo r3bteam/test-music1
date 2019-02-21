@@ -1,7 +1,7 @@
 
 
 
-token=NTM0MDU3MTAwMDQxNjUwMTg2.D1ASxg.cFXoWgp3RoZzv2OiY5smH-4JCVw
+token=bot_token
 
 
 owner=479090634813341696
