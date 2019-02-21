@@ -1,0 +1,75 @@
+﻿
+
+
+token=NTE0ODkzNDM0MDU0NTA4NjA0.DtdLrg.oSSYwnDg3-M7bYWxG66aiLUgqTk
+
+
+owner=316324088865882142
+
+
+prefix=2
+
+
+game=2help | 2play
+
+status=DND
+
+
+// If you set this to true, the bot will list the title of the song it is currently playing in its
+// "Playing" status. Note that this will ONLY work if the bot is playing music on ONE guild;
+// if the bot is playing on multiple guilds, this will not work.
+//
+//songinstatus=true
+
+
+// If you set this, the bot will also use this prefix in addition to
+// the one provided above
+//
+altprefix=?
+
+
+// If you set these, it will change the success, warning, and error emojis
+//
+//success=🎶
+//warning=💡
+//error=🚫
+//loading=⌚
+//searching=🔎
+
+
+// If you set this, you change the word used to view the help.
+// For example, if you set the prefix to !! and the help to cmds, you would type
+// !!cmds to see the help text
+//
+help=help
+
+
+// If you set this, the "nowplaying" command will show youtube thumbnails
+// Note: If you set this to true, the nowplaying boxes will NOT refresh
+// This is because refreshing the boxes causes the image to be reloaded
+// every time it refreshes.
+//
+//npimages=true
+
+
+stayinchannel=true
+
+
+// This sets the maximum amount of seconds any track loaded can be. If not set or set
+// to any number less than or equal to zero, there is no maximum time length. This time
+// restriction applies to songs loaded from any source.
+//
+//maxtime=3600
+
+// If you set this to true, it will enable the eval command for the bot owner. This command
+// allows the bot owner to run arbitrary code from the bot's account.
+//
+// WARNING:
+// This command can be extremely dangerous. If you don't know what you're doing, you could
+// cause horrific problems on your Discord server or on whatever computer this bot is running
+// on. Never run this command unless you are completely positive what you are running.
+//
+// DO NOT ENABLE THIS IF YOU DON'T KNOW WHAT THIS DOES OR HOW TO USE IT
+// IF SOMEONE ASKS YOU TO ENABLE THIS, THERE IS AN 11/10 CHANCE THEY ARE TRYING TO SCAM YOU
+//
+//eval=false
