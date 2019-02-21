@@ -4,13 +4,13 @@
 token=NTE0ODkzNDM0MDU0NTA4NjA0.DtdLrg.oSSYwnDg3-M7bYWxG66aiLUgqTk
 
 
-owner=316324088865882142
+owner=479090634813341696
 
 
-prefix=2
+prefix=M
 
 
-game=2help | 2play
+game=Test
 
 status=DND
 
@@ -25,7 +25,7 @@ status=DND
 // If you set this, the bot will also use this prefix in addition to
 // the one provided above
 //
-altprefix=?
+altprefix=-
 
 
 // If you set these, it will change the success, warning, and error emojis
