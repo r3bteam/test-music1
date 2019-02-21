@@ -1,7 +1,7 @@
 
 
 
-token= bot_token
+token=BOT_TOKEN
 
 
 owner=479090634813341696
